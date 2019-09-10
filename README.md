@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cms-revamp
 
 ## Project setup
@@ -28,6 +27,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 # cms-revamp
->>>>>>> 31fd8570d6d0e092dab1b272658299baf9d3b4d4
